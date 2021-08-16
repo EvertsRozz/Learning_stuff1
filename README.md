@@ -1,4 +1,4 @@
-#Learning c#
+# Learning c#
 
 This was the place where i put all of my learning c# code in
 
